@@ -13,8 +13,8 @@
 
 <h3 align="left">⚡ Curiosidades sobre mim:</h3>
 
-  - Tenho gosto por Escape Games e Point and Clicks. 📤
-  - Não durmo enquanto não resolvo um problema. 🔚
+  - Tenho gosto por Escape Games e Point and Clicks. 🎮
+  - Não durmo enquanto não resolvo um problema. 🔚😴
   - Apaixonado por viagens. ✈️
   - Sonho em ter condições para ajudar crianças carentes.👪
 
