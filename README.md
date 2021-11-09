@@ -4,10 +4,10 @@
 <h3 align="center">Sou Tavares Neto, um desenvolvedor back-end em formação! 👨‍💻</h3>
 
 
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="15px"> Tenho 28 anos, natural de Recife/PE, sou formado e trabalho no Setor de Gestão Pública, e atualmente estou em fase de **transição de carreira** para o setor de T.I.
-- Para alcançar este objetivo, estou realizando os cursos [*NExT(Nova EXperiência de Trabalho)*](https://www.cesar.school/next-nova-experiencia-de-trabalho/) com foco em programação back-end, e<br />
-[*Tech For Non-Techies*](https://www.cesar.school/curso-tech-for-non-techies/) com foco em Tecnologias que impactuam o mundo, ambos cursos da CESAR School.    </a> <a href="https://www.cesar.school/" target="_blank"> <img src="https://user-images.githubusercontent.com/89561527/131229480-fa123596-164f-4e44-9719-402910e9e16e.png" alt="logo_cesar_school" width="50" height="50"/> </a> </p>
-
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="15px"> Tenho 29 anos, natural de Recife/PE, sou formado e trabalho no Setor de Gestão Pública, e atualmente estou buscando  **transição de carreira** para o setor de T.I.
+- Para alcançar este objetivo, realizei recentemente os cursos [*NExT(Nova EXperiência de Trabalho)*](https://www.cesar.school/next-nova-experiencia-de-trabalho/) com foco em programação back-end, e<br />
+[*Tech For Non-Techies*](https://www.cesar.school/curso-tech-for-non-techies/) com foco em Tecnologias que impactuam o mundo, ambos cursos da CESAR School.
+- Além destes, estou realizando o curso de Introdução à Ciências da Computação com Python, ministrado pelo Professor da USP, Fábio Kon, através da plataforma Coursera.com, e ingressando nas atividades da [Digital Innovation One](https://digitalinnovation.one/).
   
   
 
