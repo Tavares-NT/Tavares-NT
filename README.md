@@ -4,17 +4,19 @@
 <h3 align="center">Sou Tavares Neto, um desenvolvedor back-end em formação! 👨‍💻</h3>
 
 
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="15px"> Tenho 29 anos, natural de Recife/PE, sou formado e trabalho no Setor de Gestão Pública, e atualmente estou buscando  **transição de carreira** para o setor de T.I.
-- Para alcançar este objetivo, realizei recentemente os cursos [*NExT(Nova EXperiência de Trabalho)*](https://www.cesar.school/next-nova-experiencia-de-trabalho/) com foco em programação back-end, e<br />
-[*Tech For Non-Techies*](https://www.cesar.school/curso-tech-for-non-techies/) com foco em Tecnologias que impactuam o mundo, ambos cursos da CESAR School.
-- Além destes, estou realizando o curso de Introdução à Ciências da Computação com Python, ministrado pelo Professor da USP, Fábio Kon, através da plataforma Coursera.com, e ingressando nas atividades da [Digital Innovation One](https://digitalinnovation.one/).
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="15px"> Tenho 29 anos, natural de Recife/PE, sou formado e trabalho no Setor de Gestão Pública há mais de 8 anos. Com a chegada da pandemia e a inovação em todos os setores, me senti na obrigação de ir em busca de novos desafios e seus aprendizados, levando-me consequentemente a querer realizar **transição de carreira** para o setor de T.I, mais especificamente como um desenvolvedor de software.
+- Para alcançar este objetivo, realizei recentemente os cursos:
+  - [*NExT(Nova EXperiência de Trabalho)*](https://www.cesar.school/next-nova-experiencia-de-trabalho/) com foco em programação back-end (Python, JAVA);
+  - [*Tech For Non-Techies*](https://www.cesar.school/curso-tech-for-non-techies/) com foco em Tecnologias que impactuam o mundo(Big Data, IoT, Blockchain, Cloud Computing, IA);
+  - [*FAST - Formação Acelerada em Soluções de Techdesign*](https://www.cesar.school/fast/) Parceria Cesar School, Softex e o Ministério da Ciência, Tecnologia e Inovações, com ênfase nos profissionais em nível inicial de carreira para UX Desing, Automação de Teste e Machine Learning, sendo este último o escolhido por mim para dar os primeiros passos nessa incrível jornada.
+- Além destes, ingressei nas atividades da [Digital Innovation One](https://digitalinnovation.one/), sempre em busca de complementar os conhecimentos e visando participar de bootcamps, bem como iniciarei ao concluir os cursos da Cesar School, o [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0).
   
   
 
 <h3 align="left">⚡ Curiosidades sobre mim:</h3>
 
   - Tenho gosto por Escape Games e Point and Clicks. 🎮
-  - Não durmo enquanto não resolvo um problema. 🔚😴
+  - Na maioria das vezes não consigo dormir enquanto não resolvo um problema. 🔚😴
   - Apaixonado por viagens. ✈️
   - Sonho em ter condições para ajudar crianças carentes.👪
 
