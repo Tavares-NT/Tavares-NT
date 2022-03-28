@@ -9,7 +9,10 @@
   - [*NExT(Nova EXperiência de Trabalho)*](https://www.cesar.school/next-nova-experiencia-de-trabalho/) com foco em programação back-end (Python, JAVA);
   - [*Tech For Non-Techies*](https://www.cesar.school/curso-tech-for-non-techies/) com foco em Tecnologias que impactuam o mundo(Big Data, IoT, Blockchain, Cloud Computing, IA);
   - [*FAST - Formação Acelerada em Soluções de Techdesign*](https://www.cesar.school/fast/) Parceria Cesar School, Softex e o Ministério da Ciência, Tecnologia e Inovações, com ênfase nos profissionais em nível inicial de carreira para UX Desing, Automação de Teste e Machine Learning, sendo este último o escolhido por mim para dar os primeiros passos nessa incrível jornada.
-- Além destes, ingressei nas atividades da [Digital Innovation One](https://digitalinnovation.one/), sempre em busca de complementar os conhecimentos e visando participar de bootcamps, bem como iniciarei ao concluir os cursos da Cesar School, o [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0).
+  - Atualmente estou no programa de formação em Dados, pela Lojas Renner e CESAR School.
+- Além destes, ingressei nas atividades da [Digital Innovation One](https://digitalinnovation.one/), sempre em busca de complementar os conhecimentos e visando participar de bootcamps, bem como pretendo iniciar ao concluir os cursos da Cesar School, o [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0).
+  
+- A novidade é que o amor por programação tem sido tão grande, que iniciei paralelo aos estudos de cursos livres, uma graduação em Engenharia de Software.
   
   
 
